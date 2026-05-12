@@ -1,0 +1,9 @@
+{
+  "name": "mini-jira-image-resize",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.758.0",
+    "jimp": "^0.22.12"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "app": "npx ts-node --prefer-ts-exts bin/mini-jira.ts",
+  "context": {
+    "@aws-cdk/aws-lambda:recognizeLayerVersion": true
+  }
+}
